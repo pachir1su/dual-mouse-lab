@@ -1,0 +1,23 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
